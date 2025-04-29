@@ -2,7 +2,8 @@
 
 Efficient Inference for Large Language Models
 
-## 🚀 课程：
+
+## 🚀 课程
 
 - [MIT Song Han | Model Compression and Acceleration Techniques for AI Computing](https://efficientml.ai/)
 
@@ -15,7 +16,7 @@ Efficient Inference for Large Language Models
 - [CSE 561A: Large Language Models (2024 Fall)](https://teapot123.github.io/CSE561A_2024fl/)
 
 
-## 🎮 视频教程：
+## 🎮 视频教程
 
 - [一小时精讲高性能 LLM 推理框架及细节优化](https://www.bilibili.com/video/BV1oT42117gL/)
 
@@ -32,7 +33,7 @@ Efficient Inference for Large Language Models
 - [Julien Simon 曾任亚马逊（AWS）人工智能和机器学习全球布道师 | 深度探究：LLM 推理优化](https://www.youtube.com/watch?v=hMs8VNRy5Ys)
 
 
-## 🛞 开源项目：
+## 🛞 开源项目
 
 开源项目：
 
@@ -43,7 +44,7 @@ Efficient Inference for Large Language Models
 - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index)
 
 
-## 📝 博客：
+## 📝 博客
 
 - [结合 MindIE-LLM 框架的具体优化案例，分析大模型推理加速的关键技术](https://mp.weixin.qq.com/s/3QYQDq4ZHQRwYMs6MmgVLg)
 
@@ -56,12 +57,12 @@ Efficient Inference for Large Language Models
 - [一念 LLM 大语言模型推理加速](https://mp.weixin.qq.com/s/bmafuEaB3pfG72xEaPcR3g)
 
 
-## 💻 方法论文：
+## 💻 方法论文
 
 - [Zhang, T., Sui, Y., Zhong, S., Chaudhary, V., Hu, X., & Shrivastava, A. (2025). 70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float. arXiv preprint arXiv: 2504.11651.](https://arxiv.org/abs/2504.11651)
 
 
-## 💡 综述论文：
+## 💡 综述论文
 
 - [Kim S, Hooper C, Wattanawong T, et al. Full Stack Optimization of Transformer Inference\[C\]//Architecture and System Support for Transformer Models (ASSYST@ ISCA 2023).](https://arxiv.org/abs/2302.14017)
 
