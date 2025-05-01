@@ -48,21 +48,36 @@ Efficient Inference for Large Language Models
 
 - [结合 MindIE-LLM 框架的具体优化案例，分析大模型推理加速的关键技术](https://mp.weixin.qq.com/s/3QYQDq4ZHQRwYMs6MmgVLg)
 
+- [两万六千字，大模型核心技术综述：微调、推理与优化指南](https://mp.weixin.qq.com/s/TCG_dDhoUvtlmtcO_dwSgw)
+
+- [大模型推理服务全景图](https://mp.weixin.qq.com/s/cDELflSEM7SV2Z3bupy65g)
+
 - [Lilian Weng 出品，必是精品 | 大型 Transformer 模型推理优化](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 
 - [高性能 LLM 推理框架的设计与实现](https://mp.weixin.qq.com/s/4o86rMuburB8jcbU0aYC7g)
+
+- [AI 推理场景的痛点和解决方案](https://mp.weixin.qq.com/s/SeUJxNK10fhR6YsWSJRYwg)
 
 - [Semi-PD，P/D 半分离的调度策略，大模型推理范式新选择](https://mp.weixin.qq.com/s/vQ5iXCXD7lJXogvT52PsLg)
 
 - [一念 LLM 大语言模型推理加速](https://mp.weixin.qq.com/s/bmafuEaB3pfG72xEaPcR3g)
 
+- [大模型的模型压缩与有效推理要点总结](https://mp.weixin.qq.com/s/8AltJXjXIZHvq7lPu8FKoQ)
+
 
 ## 💻 方法论文
+
+- [Li, Y., Wei, F., Zhang, C., & Zhang, H. (2025). EAGLE-3: Scaling Up Inference Acceleration of Large Language Models via Training-Time Test. arXiv preprint arXiv: 2503.01840.](https://arxiv.org/abs/2503.01840)
 
 - [Zhang, T., Sui, Y., Zhong, S., Chaudhary, V., Hu, X., & Shrivastava, A. (2025). 70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float. arXiv preprint arXiv: 2504.11651.](https://arxiv.org/abs/2504.11651)
 
 
 ## 💡 综述论文
 
-- [Kim S, Hooper C, Wattanawong T, et al. Full Stack Optimization of Transformer Inference\[C\]//Architecture and System Support for Transformer Models (ASSYST@ ISCA 2023).](https://arxiv.org/abs/2302.14017)
+- [Zhen, R., Li, J., Ji, Y., Yang, Z., Liu, T., Xia, Q., ... & Zhang, M. (2025). Taming the Titans: A Survey of Efficient LLM Inference Serving. arXiv preprint arXiv: 2504.19720.](https://arxiv.org/abs/2504.19720)
 
+- [Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., ... & Wang, Y. (2024). A Survey on Efficient Inference for Large Language Models. arXiv preprint arXiv: 2404.14294.](https://arxiv.org/abs/2404.14294)
+
+- [Liu, Y., Wu, J., He, Y., Gao, H., Chen, H., Bi, B., ... & Hooi, B. (2025). Efficient Inference for Large Reasoning Models: A Survey. arXiv preprint arXiv: 2503.23077.](https://arxiv.org/abs/2503.23077)
+
+- [Kim S, Hooper C, Wattanawong T, et al. Full Stack Optimization of Transformer Inference\[C\]//Architecture and System Support for Transformer Models (ASSYST@ ISCA 2023).](https://arxiv.org/abs/2302.14017)
