@@ -13,11 +13,12 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 
 - [University of Pennsylvania | CIS 7000: Large Language Models](https://llm-class.github.io/)
 
-- [UC Berkeley & Google - Large Language Model Agents](https://llmagents-learning.org/f24)
+- [UC Berkeley & Google | Large Language Model Agents](https://llmagents-learning.org/f24)
 
-- [California Institute of Technology - Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024)
+- [California Institute of Technology | Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024)
 
-- [CSE 561A: Large Language Models (2024 Fall)](https://teapot123.github.io/CSE561A_2024fl/)
+- [Washington University | CSE 561A: Large Language Models (2024 Fall)](https://teapot123.github.io/CSE561A_2024fl/)
+
 
 
 ## 🎮 视频教程
@@ -41,11 +42,11 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 
 开源项目：
 
-- [Easy, Fast, and Cheap LLM Serving for Everyone](https://github.com/vllm-project/vllm)
+- [vLLM - Easy, Fast, and Cheap LLM Serving for Everyone](https://github.com/vllm-project/vllm)
 
-- [SGLang is a Fast Serving Framework for Large Language Models and Vision Language Models](https://github.com/sgl-project/sglang)
+- [SGLang - A Fast Serving Framework for Large Language Models and Vision Language Models](https://github.com/sgl-project/sglang)
 
-- [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index)
+- [DeepSeek - The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index)
 
 
 ## 📝 博客
