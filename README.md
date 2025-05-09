@@ -1,13 +1,17 @@
-# Efficient-LLM-Inference
+# 🚀 Efficient-LLM-Inference
 
 Efficient Inference for Large Language Models
+
+Once the swallows of the Wang and Xie halls, now they fly into the homes of ordinary people. This may be the very essence of efficient inference of big models: by optimizing LLM inference, pushing performance and efficiency to their limits, making big models no longer the exclusive domain of a select few (the wealthy, tech giants).
 
 
 ## 🚀 课程
 
 - [MIT Song Han | Model Compression and Acceleration Techniques for AI Computing](https://efficientml.ai/)
 
-- [University of Pennsylvania | CIS 7000 - Large Language Models](https://llm-class.github.io/)
+- [Stanford NLP | CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
+
+- [University of Pennsylvania | CIS 7000: Large Language Models](https://llm-class.github.io/)
 
 - [UC Berkeley & Google - Large Language Model Agents](https://llmagents-learning.org/f24)
 
@@ -77,6 +81,8 @@ Efficient Inference for Large Language Models
 - [Zhen, R., Li, J., Ji, Y., Yang, Z., Liu, T., Xia, Q., ... & Zhang, M. (2025). Taming the Titans: A Survey of Efficient LLM Inference Serving. arXiv preprint arXiv: 2504.19720.](https://arxiv.org/abs/2504.19720)
 
 - [Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., ... & Wang, Y. (2024). A Survey on Efficient Inference for Large Language Models. arXiv preprint arXiv: 2404.14294.](https://arxiv.org/abs/2404.14294)
+
+- [Park, S., Jeon, S., Lee, C., Jeon, S., Kim, B. S., & Lee, J. (2025). A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency. arXiv preprint arXiv: 2505.01658.](https://arxiv.org/abs/2505.01658)
 
 - [Liu, Y., Wu, J., He, Y., Gao, H., Chen, H., Bi, B., ... & Hooi, B. (2025). Efficient Inference for Large Reasoning Models: A Survey. arXiv preprint arXiv: 2503.23077.](https://arxiv.org/abs/2503.23077)
 
