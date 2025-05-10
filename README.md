@@ -1,8 +1,7 @@
 # 🚀 Efficient-LLM-Inference
 
-Efficient Inference for Large Language Models
 
-Once the swallows of the Wang and Xie halls, now they fly into the homes of ordinary people. This may be the very essence of efficient inference of big models: by optimizing LLM inference, pushing performance and efficiency to their limits, making big models no longer the exclusive domain of a select few (the wealthy, tech giants).
+旧时王谢堂前燕，飞入寻常百姓家。这或许正是大语言模型高效推理的意义所在：通过优化大语言模型推理，将性能和效率提升至极致，让大模型不再只是少数人（富人、科技巨头公司）的专属。
 
 
 ## 🚀 课程
@@ -55,6 +54,8 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 
 - [HUAWEI Ascend MindIE](https://www.hiascend.com/software/mindie)
 
+- [Chitu - High-Performance Inference Framework for Large Language Models, Focusing on Efficiency, Flexibility, and Availability.](https://github.com/thu-pacman/chitu)
+
 - [llama.cpp - LLM Inference in C/C++](https://github.com/ggml-org/llama.cpp)
 
 - [stable-diffusion.cpp - Open-Source Acceleration of Stable-Diffusion.cpp Deployable on All Devices](https://github.com/SealAILab/stable-diffusion-cpp)
@@ -66,19 +67,29 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 
 - [两万六千字，大模型核心技术综述：微调、推理与优化指南](https://mp.weixin.qq.com/s/TCG_dDhoUvtlmtcO_dwSgw)
 
+- [漫谈大模型推理优化技术系列 ——（二）模型推理服务](https://mp.weixin.qq.com/s/3RBK_CR-YbmPqYClkEd1Lg)
+
+- [2024 年 - 开源大模型推理引擎现状及常见推理优化方法](https://zhuanlan.zhihu.com/p/755874470)
+
+- [一文读懂 llama.cpp/vLLM/SGLang/FastTransformer/TensorRT/TGI/MindIE 大模型推理引擎（附图）](https://mp.weixin.qq.com/s/FOwTIrDBQPk7DJf3CHI6eQ)
+
 - [大模型推理服务全景图](https://mp.weixin.qq.com/s/cDELflSEM7SV2Z3bupy65g)
+
+- [大模型推理优化 —— 技术突破与产业落地新范式](https://mp.weixin.qq.com/s/e434Y1DYPkLCfbIEg4qbrw)
+
+- [毫秒级响应的秘密：解密大模型推理层如何用 10% 成本实现 10 倍速性能](https://mp.weixin.qq.com/s/CguEVKJ2MtMdEeoclEGD8Q)
+
+- [AI 推理场景的痛点和解决方案](https://mp.weixin.qq.com/s/SeUJxNK10fhR6YsWSJRYwg)
 
 - [Lilian Weng 出品，必是精品 | 大型 Transformer 模型推理优化](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 
 - [高性能 LLM 推理框架的设计与实现](https://mp.weixin.qq.com/s/4o86rMuburB8jcbU0aYC7g)
 
-- [AI 推理场景的痛点和解决方案](https://mp.weixin.qq.com/s/SeUJxNK10fhR6YsWSJRYwg)
+- [一文读懂大模型推理服务平台（Xinference/Ollama/GPUStack/KServe/Triton/LMDeploy）](https://mp.weixin.qq.com/s/utzpNKbmIIFPPuKox8vPvg)
 
 - [Semi-PD，P/D 半分离的调度策略，大模型推理范式新选择](https://mp.weixin.qq.com/s/vQ5iXCXD7lJXogvT52PsLg)
 
 - [一念 LLM 大语言模型推理加速](https://mp.weixin.qq.com/s/bmafuEaB3pfG72xEaPcR3g)
-
-- [2024 年 - 开源大模型推理引擎现状及常见推理优化方法](https://zhuanlan.zhihu.com/p/755874470)
 
 - [大模型推理引擎国产化思考和实践](https://mp.weixin.qq.com/s/JLeYxYXurHbtF0nL-2wYyw)
 
@@ -94,6 +105,8 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 - [Zhang, T., Sui, Y., Zhong, S., Chaudhary, V., Hu, X., & Shrivastava, A. (2025). 70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float. arXiv preprint arXiv: 2504.11651.](https://arxiv.org/abs/2504.11651)
 
 - [Ye, Z., Chen, L., Lai, R., Lin, W., Zhang, Y., Wang, S., ... & Ceze, L. (2025). FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving. arXiv preprint arXiv: 2501.01005.](https://arxiv.org/abs/2501.01005)
+
+- [Xu, J., Pan, J., Zhou, Y., Chen, S., Li, J., Lian, Y., ... & Dai, G. (2025). SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting. arXiv preprint arXiv: 2504.08850.](https://arxiv.org/abs/2504.08850)
 
 - [Prabhu, R., Nayak, A., Mohan, J., Ramjee, R., & Panwar, A. (2025). vAttention: Dynamic Memory Management for Serving LLMs without PagedAttention. In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 1: 1133-1150.](https://doi.org/10.1145/3669940.3707256)
 
@@ -115,6 +128,8 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 - [Liu, Y., Wu, J., He, Y., Gao, H., Chen, H., Bi, B., ... & Hooi, B. (2025). Efficient Inference for Large Reasoning Models: A Survey. arXiv preprint arXiv: 2503.23077.](https://arxiv.org/abs/2503.23077)
 
 - [Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., ... & Wang, Y. (2024). A Survey on Efficient Inference for Large Language Models. arXiv preprint arXiv: 2404.14294.](https://arxiv.org/abs/2404.14294)
+
+- [Li, J., Xu, J., Huang, S., Chen, Y., Li, W., Liu, J., ... & Dai, G. (2024). Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective. arXiv preprint arXiv: 2410.04466.](https://arxiv.org/abs/2410.04466)
 
 - [Chavan, A., Magazine, R., Kushwaha, S., Debbah, M., & Gupta, D. (2024). Faster and Lighter LLMs: A Survey on Current Challenges and Way Forward. In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI), 7980-7988.](https://doi.org/10.24963/ijcai.2024/883)
 
