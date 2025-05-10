@@ -122,4 +122,5 @@ Once the swallows of the Wang and Xie halls, now they fly into the homes of ordi
 
 - [Li, H., Li, Y., Tian, A., Tang, T., Xu, Z., Chen, X., ... & Chen, L. (2024). A Survey on Large Language Model Acceleration Based on KV Cache Management. arXiv preprint arXiv: 2412.19442.](https://arxiv.org/abs/2412.19442)
 
-- [Kim, S., Hooper, C., Wattanawong, T., Kang, M., Yan, R., Genc, H., ... & Gholami, A. Full Stack Optimization of Transformer Inference. In Architecture and System Support for Transformer Models (ASSYST@ ISCA 2023).](https://arxiv.org/abs/2302.14017)Kim S, Hooper C, Wattanawong T, et al. Full Stack Optimization of Transformer Inference\[C\]//Architecture and System Support for Transformer Models (ASSYST@ ISCA 2023).](https://arxiv.org/abs/2302.14017)
+- [Kim, S., Hooper, C., Wattanawong, T., Kang, M., Yan, R., Genc, H., ... & Gholami, A. Full Stack Optimization of Transformer Inference. In Architecture and System Support for Transformer Models (ASSYST@ ISCA 2023).](https://arxiv.org/abs/2302.14017)
+
