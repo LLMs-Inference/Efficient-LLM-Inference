@@ -4,7 +4,7 @@
 旧时王谢堂前燕，飞入寻常百姓家。这或许正是大语言模型高效推理的意义所在：通过优化大语言模型推理，将性能和效率提升至极致，让大模型不再只是少数人（富人、科技巨头公司）的专属。
 
 
-## 🚀 课程
+## ❤️ 课程
 
 - [MIT Song Han | Model Compression and Acceleration Techniques for AI Computing](https://efficientml.ai/)
 
