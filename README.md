@@ -56,8 +56,6 @@
 
 ## 🛞 开源项目
 
-开源项目：
-
 - [vLLM - Easy, Fast, and Cheap LLM Serving for Everyone](https://github.com/vllm-project/vllm)
 
 - [SGLang - A Fast Serving Framework for Large Language Models and Vision Language Models](https://github.com/sgl-project/sglang)
