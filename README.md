@@ -1,7 +1,7 @@
 # 🚀 Efficient-LLM-Inference
 
 
-旧时王谢堂前燕，飞入寻常百姓家。这或许正是大语言模型高效推理的意义所在：通过优化大语言模型推理，将性能和效率提升至极致，让大模型不再只是少数人（富人、科技巨头公司）的专属。
+旧时王谢堂前燕，飞入寻常百姓家。这或许正是大语言模型高效推理的意义所在：通过优化大语言模型推理，将性能和效率提升至极致，让大模型不再只是少数人（富人、科技巨头公司）的专属。为实现将简单、高效、低成本的大模型推理服务带给每个人而不懈奋斗。
 
 
 ## ❤️ 课程
@@ -22,6 +22,8 @@
 ## 🎮 视频教程
 
 - [ZOMI 酱在 B 站上传了一系列视频教程](https://space.bilibili.com/517221395)
+
+- [高效的大语言模型推理 - Efficiency 论文分享 @ICML & ACL 2025](https://www.bilibili.com/video/BV1BENvzRETv/)
 
 - [如何加速大语言模型推理？万字长文综述大语言模型高效推理技术](https://www.bilibili.com/video/BV1yb421n7ZU/)
 
@@ -64,9 +66,21 @@
 
 - [llm-d: A Kubernetes-Native High-Performance Distributed LLM Inference Framework](https://github.com/llm-d)
 
+- [Xinference - Deploy AI Models Fast And Seamless Enterprise Ready](https://github.com/xorbitsai/inference)
+
+- [Tencent KsanaLLM - A High Performance and Easy-To-Use Engine for LLM Inference and Serving](https://github.com/Tencent/KsanaLLM)
+
 - [NVIDIA - LM Studio](https://github.com/lmstudio-ai)
 
+- [LMDeploy - A Toolkit for Compressing, Deploying, and Serving LLMs](https://github.com/InternLM/lmdeploy)
+
 - [HUAWEI Ascend MindIE](https://www.hiascend.com/software/mindie)
+
+- [Ollama - Get up and Running with Llama 3.3, Deepseek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and Other LLMs.](https://github.com/ollama/ollama)
+
+- [Hugging Face TGI - Text Generation Inference](https://github.com/huggingface/text-generation-inference)
+
+- [NVIDIA TensorRT-LLM - A Tensorrt Toolbox for Optimized Large Language Model Inference](https://github.com/NVIDIA/TensorRT-LLM)
 
 - [DeepSeek - The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index)
 
@@ -74,12 +88,20 @@
 
 - [Chitu - High-Performance Inference Framework for Large Language Models, Focusing on Efficiency, Flexibility, and Availability.](https://github.com/thu-pacman/chitu)
 
+- [NVIDIA Dynamo - A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
+
 - [llama.cpp - LLM Inference in C/C++](https://github.com/ggml-org/llama.cpp)
 
-- [stable-diffusion.cpp - Open-Source Acceleration of Stable-Diffusion.cpp Deployable on All Devices](https://github.com/SealAILab/stable-diffusion-cpp)
+- [MLC LLM - Universal LLM Deployment Engine with ML Compilation](https://github.com/mlc-ai/mlc-llm)
+
+- [DashInfer - A Native LLM Inference Engine Aiming to Deliver Industry-Leading Performance Atop Various Hardware Architectures, Including CUDA, x86 and ARMv9](https://github.com/modelscope/dash-infer)
 
 
 ## 📝 博客
+
+- [AAAI 2025 收录，LLM 推理加速新范式！加州大学洛杉矶分校提出 DSBD 技术，有效结合推测解码与束采样](https://mp.weixin.qq.com/s/m1PMyTg9SftpPgK5fnHYzg)
+
+- [突破百万 Token 处理瓶颈：Context Parallelism 让大模型推理提速 10 倍](https://mp.weixin.qq.com/s/O8YRV0zmcR6T9L_6RUMcGw)
 
 - [俞星凯 Nano-vLLM：从零开始构建了一个轻量级 vLLM 实现，将代码简化到了 1200 行](https://mp.weixin.qq.com/s/Qo0xE6BtG4RpMIaeWCWsZQ)
 
@@ -200,14 +222,15 @@
 
 ## 💡 综述论文
 
+- [A Survey of LLM Inference Systems](https://arxiv.org/abs/2506.21901)
+
 - [Zhen, R., Li, J., Ji, Y., Yang, Z., Liu, T., Xia, Q., ... & Zhang, M. (2025). Taming the Titans: A Survey of Efficient LLM Inference Serving. arXiv preprint arXiv: 2504.19720.](https://arxiv.org/abs/2504.19720)
 
 - [Park, S., Jeon, S., Lee, C., Jeon, S., Kim, B. S., & Lee, J. (2025). A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency. arXiv preprint arXiv: 2505.01658.](https://arxiv.org/abs/2505.01658)
 
 - [Sui, Y., Chuang, Y. N., Wang, G., Zhang, J., Zhang, T., Yuan, J., ... & Hu, X. (2025). Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models. arXiv preprint arXiv: 2503.16419.](https://arxiv.org/abs/2503.16419)
 
-- [葛旭冉, 欧洋, 王博, 赵宇, 吴利舟, 王子聪, 陈志广, 肖侬. 大语言模型推理中的存储优化技术综述\[J\]. 计算机研究与发展, 2025, 62(3): 545-562. DOI: 10.7544/issn1000-1239.202440628](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440628)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-
+- [葛旭冉, 欧洋, 王博, 赵宇, 吴利舟, 王子聪, 陈志广, 肖侬. 大语言模型推理中的存储优化技术综述\[J\]. 计算机研究与发展, 2025, 62(3): 545-562. DOI: 10.7544/issn1000-1239.202440628](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440628)                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 - [Liu, Y., Wu, J., He, Y., Gao, H., Chen, H., Bi, B., ... & Hooi, B. (2025). Efficient Inference for Large Reasoning Models: A Survey. arXiv preprint arXiv: 2503.23077.](https://arxiv.org/abs/2503.23077)
 
 - [Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., ... & Wang, Y. (2024). A Survey on Efficient Inference for Large Language Models. arXiv preprint arXiv: 2404.14294.](https://arxiv.org/abs/2404.14294)
