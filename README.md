@@ -9,7 +9,11 @@
 
 - [MIT Song Han | Model Compression and Acceleration Techniques for AI Computing](https://efficientml.ai/)
 
-- [Stanford NLP | CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
+- [Stanford CS25: Transformers United V5](https://web.stanford.edu/class/cs25/)
+
+- [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
+
+- [Washington University | CSE 5610: Large Language Models (2025 Fall)](https://teapot123.github.io/CSE561A_2025fl/)
 
 - [University of Pennsylvania | CIS 7000: Large Language Models](https://llm-class.github.io/)
 
@@ -17,7 +21,9 @@
 
 - [California Institute of Technology | Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024)
 
-- [Washington University | CSE 561A: Large Language Models (2024 Fall)](https://teapot123.github.io/CSE561A_2024fl/)
+- [Datawhale 发布 Happy-LLM：刚上线一周就收获 2.3K+ Star 的大模型 "顶流教程"](https://mp.weixin.qq.com/s/c7WqO4_ZNmtqf1FG_vOXOA)
+
+- [上海交通大学 - 《动手学大模型》系列编程实践教程](https://github.com/Lordog/dive-into-llms)
 
 
 ## 🎮 视频教程
